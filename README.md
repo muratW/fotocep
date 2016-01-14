@@ -1,0 +1,2 @@
+# fotocep
+FotoCep photography store.
